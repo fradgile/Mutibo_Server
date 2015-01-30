@@ -1,4 +1,12 @@
-# Assignment 2 Covering Weeks 3-6
+# Mutibo Capstone Project
+There are 2 parts to the Capstone:
+1. The server side Spring application
+2. The Android client application
+
+This repo is for the Spring Server which is based off of Assignment 2
+
+# The following is the Readme for Assignment 2.
+## NEED TO UPDATE Readme
 
 # This assignment is in Beta
 
